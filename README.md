@@ -10,9 +10,15 @@ https://www.jetbrains.com/es-es/idea/download/
 
 ## Descargar el repo como un .zip o clonarlo
 
-## Abrir la carpeta
+## Abrir la carpeta con el IDE
 
-## Tocar el Botón de Play del IDE
+## Ir a App.java, debería ofrecer un botón verde de run / play
+
+## Si no ofrece esa opción, debería ofrecer un "Set Up SDK", darle click y esperar a que descarge e instale
+
+## Reiniciar el IDE
+
+## Ir a App.java y tocar el Botón de Play del IDE
 
 ### Bibliografía
 
