@@ -14,3 +14,6 @@ https://www.jetbrains.com/es-es/idea/download/
 
 ## Tocar el Botón de Play del IDE
 
+### Bibliografía
+
+Cracking the Coding Interview 6th Edition
