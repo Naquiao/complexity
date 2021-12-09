@@ -3,7 +3,7 @@ package ar.balanz.datateam;
 public class AmortizedTime {
 
     /*
-    Lo importante aca es el hecho bàsico que N < logN
+    Lo importante aca es el hecho bàsico que logN < N
 
     lo cual tambien significa que
 
