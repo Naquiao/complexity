@@ -20,6 +20,12 @@ https://www.jetbrains.com/es-es/idea/download/
 
 ## Ir a App.java y tocar el Botón de Play del IDE
 
+## Clase teórica async
+
+https://www.youtube.com/watch?v=QnRx6V8YQy0
+
+https://www.youtube.com/watch?v=YX40hbAHx3s
+
 ### Bibliografía
 
 Cracking the Coding Interview 6th Edition
